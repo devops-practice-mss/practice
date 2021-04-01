@@ -1,2 +1,1 @@
-this is the first file.
-its updated to test revert
+this is the first file
